@@ -22,7 +22,7 @@ My name is Dan Roth. I'm a physics professor at [Olympic College][OC], a two-yea
 All contents are copyright 2019 Dan Roth, and are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 [icon]: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
-[funwithphys]: https://probabilsticworld.github.io/CovidLabs/Fun-with-physics.pdf
-[measmot]: https://probabilsticworld.github.io/CovidLabs/Measuring-motion.docx
+[funwithphys]: Fun-with-physics.pdf
+[measmot]: Measuring-motion.docx
 [PhET]: https://phet.colorado.edu/
 [OC]: https://www.olympic.edu
