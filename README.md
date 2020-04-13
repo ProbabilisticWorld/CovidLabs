@@ -23,6 +23,6 @@ All contents are copyright 2019 Dan Roth, and are licensed under a [Creative Com
 
 [icon]: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
 [funwithphys]: https://probabilsticworld.github.io/CovidLabs/Fun-with-physics.pdf
-[measmot]: https://probabilsticworld.github.io/CovidLabs/
+[measmot]: https://probabilsticworld.github.io/CovidLabs/Measuring-motion.docx
 [PhET]: https://https://phet.colorado.edu/
 [OC]: https://www.olympic.edu
