@@ -13,7 +13,7 @@ I will update this page as I create more labs.
 	* I use a couple of [PhET][PhET] simulations, as well as have students take and graph their own data using a stopwatch and tape measure.
 
 # About me
-My name is Dan Roth. I'm a physics professor at [Olympic College][OC], a two-year college in Bremerton, WA.
+My name is Dan Roth. I'm a physics professor at [Olympic College][OC], a two-year college in Bremerton, WA. My email is: droth (at) olympic.edu
 
 # Copyright and license info
 
