@@ -11,7 +11,7 @@ I will update this page as I create more labs.
 	* This is the lab I do in the first week of class. It introduces students to a variety of demonstrations that come up throughout the course.
 * [Measuring motion][measmot] (docx)
 	* I use a couple of [PhET][PhET] simulations, as well as have students take and graph their own data using a stopwatch and tape measure.
-* [Collisions][momentum] (ddox)
+* [Collisions][momentum] (docx)
 	* Students use the [PhET][PhET] collision simulation to investigate differneces between elastic and inelastic collisions. They then release a ball from rest, measure it's release height and bounce height, and determine if the collision between the ball and the ground is elastic or inelastic.
 
 # About me
