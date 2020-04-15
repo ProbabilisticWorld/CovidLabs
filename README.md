@@ -18,7 +18,7 @@ I will update this page as I create more labs.
 For this class, my labs are more open-ended, requiring the students design their own experiments. This is how I structure my Phys 25x labs even when we're not forced to do labs remotely. I have more information on that [here][CYOALabs].
 
 * [Gas Properties][gasprop] (docx)
-	* Adapted from the lab posted by Andrew Young to the AAPT-CPTYC [shared labs][AAPTsharedlabs] page.
+	* Adapted from the lab posted by Andrew Young to the AAPT-CPTYC [shared labs][AAPTsharedlabs] page. I don't know the license Dr. Young's lab is released under, so it may not fall under the creative commons license listed below.
 	* Uses the [Gas Properties PhET][PhETgas]
 * [Specific heat][specheat] (docx)
 	* Uses a [simulation][specheatsim] from [William J. Vining][vining] in the chemistry department of SUNY Oneonta
@@ -31,7 +31,7 @@ My name is Dan Roth. I'm a physics professor at [Olympic College][OC], a two-yea
 
 ![CC-BY-NC-SA icon][icon]
 
-All contents are copyright 2019 Dan Roth, and are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+Except as noted, all contents are copyright 2019 Dan Roth, and are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 [funwithphys]: Fun-with-physics.pdf
 [measmot]: Measuring-motion.docx
