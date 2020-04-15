@@ -20,7 +20,7 @@ For this class, my labs are more open-ended, requiring the students design their
 * [Gas Properties][gasprop] (docx)
 	* Adapted from the lab posted by Andrew Young to the AAPT-CPTYC [shared labs][AAPTsharedlabs] page.
 	* Uses the [Gas Properties PhET][PhETgas]
-* [Specific heat][sepcheat] (docx)
+* [Specific heat][specheat] (docx)
 	* Uses a [simulation][specheatsim] from [William J. Vining][vining] in the chemistry department of SUNY Oneonta
 	* Also has students use water to determine the power output of their stove
 
