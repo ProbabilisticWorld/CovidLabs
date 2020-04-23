@@ -13,6 +13,9 @@ I will update this page as I create more labs.
 	
 * [Measuring motion][measmot] (docx)
 	* I use a couple of [PhET][PhET] simulations, as well as have students take and graph their own data using a stopwatch and tape measure.
+
+* [Alternate measuring motion][measmotalt] (docx)
+	* Many students were having difficulty running the java applications from the old PhET simulations. This version uses html5 interactives from [The Physics Classroom][tpc].
 	
 * [Collisions][momentum] (docx)
 	* Students use the PhET [collision simulation][PhETcoll] to investigate differneces between elastic and inelastic collisions. They then release a ball from rest, measure it's release height and bounce height, and determine if the collision between the ball and the ground is elastic or inelastic.
@@ -52,6 +55,7 @@ Except as noted, all contents are copyright 2019 Dan Roth, and are licensed unde
 <!---Phys 110 labs--->
 [funwithphys]: Fun-with-physics.pdf
 [measmot]: Measuring-motion.docx
+[measmotalt]: Measuring-motion-alt.docx
 [momentum]: Momentum.docx
 [ballpend]: Ballistic-pendulum.docx
 
@@ -64,6 +68,7 @@ Except as noted, all contents are copyright 2019 Dan Roth, and are licensed unde
 [CYOALabs]: https://probabilisticworld.github.io/CYOALabs
 [AAPTsharedlabs]: https://sites.google.com/a/aapt.org/comm/shared-labs
 [PhET]: https://phet.colorado.edu/
+[tpc]: https://www.physicsclassroom.com
 [PhETcoll]: https://phet.colorado.edu/en/simulation/legacy/collision-lab
 [geogebrasim]: https://www.geogebra.org/m/gSmRe62s
 [geogebra]: https://www.geogebra.org
