@@ -9,36 +9,42 @@ I will update this page as I create more labs.
 <!---Phys 110--->
 # Introduction to Physics (Phys 110)
 * [Fun with Physics][funwithphys] (pdf)
-	* This is the lab I do in the first week of class. It introduces students to a variety of demonstrations that come up throughout the course.
-	
+* This is the lab I do in the first week of class. It introduces students to a variety of demonstrations that come up throughout the course.
+
 * [Measuring motion][measmot] (docx)
-	* I use a couple of [PhET][PhET] simulations, as well as have students take and graph their own data using a stopwatch and tape measure.
+* I use a couple of [PhET][PhET] simulations, as well as have students take and graph their own data using a stopwatch and tape measure.
 
 * [Alternate measuring motion][measmotalt] (docx)
-	* Many students were having difficulty running the java applications from the old PhET simulations. This version uses html5 interactives from [The Physics Classroom][tpc].
-	
+* Many students were having difficulty running the java applications from the old PhET simulations. This version uses html5 interactives from [The Physics Classroom][tpc].
+
 * [Collisions][momentum] (docx)
-	* Students use the PhET [collision simulation][PhETcoll] to investigate differneces between elastic and inelastic collisions. They then release a ball from rest, measure it's release height and bounce height, and determine if the collision between the ball and the ground is elastic or inelastic.
+* Students use the PhET [collision simulation][PhETcoll] to investigate differneces between elastic and inelastic collisions. They then release a ball from rest, measure it's release height and bounce height, and determine if the collision between the ball and the ground is elastic or inelastic.
 
 * [Ballistic pendulum][ballpend] (docx)
-	* This lab uses a [simulation][geogebrasim] from [Geogebra][geogebra] for a fairly traditional ballistic pendulum experiment.
-	* After that, they look at another system requiring analysis of both energy and momentum: an [M&M shot through a soda can][mnm]. This video is from the [Science Education Resource Center at Carlton College][serc].
-	* The post-lab questions emphasise the fact that these are *inelastic* collisions; I find it is a common mistake to say the intial kinetic energy of the bullet of a ballistic pendulum is equal to the final gravitational potential energy of the system.
+* This lab uses a [simulation][geogebrasim] from [Geogebra][geogebra] for a fairly traditional ballistic pendulum experiment.
+* After that, they look at another system requiring analysis of both energy and momentum: an [M&M shot through a soda can][mnm]. This video is from the [Science Education Resource Center at Carlton College][serc].
+* The post-lab questions emphasise the fact that these are *inelastic* collisions; I find it is a common mistake to say the intial kinetic energy of the bullet of a ballistic pendulum is equal to the final gravitational potential energy of the system.
+
+* [Elasticity][elasticity] (docx)
+* When meeting in person, I run a lab where they find the spring constant of plastic cutlery (inspired by a lab by [Wendy Adams][adamslabs] at Colorado School of Mines). This at-home lab follows the same process.
+* This lab uses a the [Mass and Springs PhET][PhETspring] to get some "nice" data
+* They also use a "springy" household object for some real data.
+* The students need to come up with their own set of calibrated weights for applying force; some tips are given in the lab handout. I think this is a really neat way to show students that they don't need special equipment to do physics!
 
 <!---Phys 256--->
 # Engineering Physics III (Phys 256)
 For this class, my labs are more open-ended, requiring the students design their own experiments. This is how I structure my Phys 25x labs even when we're not forced to do labs remotely. I have more information on that [here][CYOALabs].
 
 * [Gas Properties][gasprop] (docx)
-	* Adapted from the lab posted by Andrew Young to the AAPT-CPTYC [shared labs][AAPTsharedlabs] page. I don't know the license Dr. Young's lab is released under, so it may not fall under the creative commons license listed below.
-	* Uses the [Gas Properties PhET][PhETgas]
+* Adapted from the lab posted by Andrew Young to the AAPT-CPTYC [shared labs][AAPTsharedlabs] page. I don't know the license Dr. Young's lab is released under, so it may not fall under the creative commons license listed below.
+* Uses the [Gas Properties PhET][PhETgas]
 * [Specific heat][specheat] (docx)
-	* Uses a [simulation][specheatsim] from [William J. Vining][vining] in the chemistry department of SUNY Oneonta
-	* Also has students use water to determine the power output of their stove
+* Uses a [simulation][specheatsim] from [William J. Vining][vining] in the chemistry department of SUNY Oneonta
+* Also has students use water to determine the power output of their stove
 
 * [Pendulum Periods][pendper] (docx)
-	* The beauty of a simple pendulum is that it's so simple! In this lab, students investigate relationships between the mass, length, and amplitude of a simple pendulum.
-	* This lab is more extensive than some of the others, so I give them two weeks to work on it. After the first week, I have them do a short check-in to help keep them on trak (and not put it off entirely to the last minute)
+* The beauty of a simple pendulum is that it's so simple! In this lab, students investigate relationships between the mass, length, and amplitude of a simple pendulum.
+* This lab is more extensive than some of the others, so I give them two weeks to work on it. After the first week, I have them do a short check-in to help keep them on trak (and not put it off entirely to the last minute)
 
 <!---About--->
 # About me
@@ -63,6 +69,7 @@ Except as noted, all contents are copyright 2019 Dan Roth, and are licensed unde
 [gasprop]: Gas-properties.docx
 [specheat]: Specific-heat.docx
 [pendper]: Pendulum.docx
+[elasticity]: Elasticity.docx
 
 <!---Phys 110 links--->
 [CYOALabs]: https://probabilisticworld.github.io/CYOALabs
@@ -74,6 +81,8 @@ Except as noted, all contents are copyright 2019 Dan Roth, and are licensed unde
 [geogebra]: https://www.geogebra.org
 [mnm]: https://serc.carleton.edu/details/files/37946.html
 [serc]: https://serc.carleton.edu/index.html
+[adamslabs]: http://sparkingcuriosity.net/Labs.htm
+[PhETspring]:https://phet.colorado.edu/en/simulation/mass-spring-lab
 
 <!---Phys 256 links--->
 [PhETgas]: https://phet.colorado.edu/en/simulation/gas-properties
