@@ -52,6 +52,20 @@ For this class, my labs are more open-ended, requiring the students design their
   * The beauty of a simple pendulum is that it's so simple! In this lab, students investigate relationships between the mass, length, and amplitude of a simple pendulum.
   * This lab is more extensive than some of the others, so I give them two weeks to work on it. After the first week, I have them do a short check-in to help keep them on trak (and not put it off entirely to the last minute)
 
+* [Standing waves][stwaves] (docx)
+  * Uses a video that Glenda Denicolo [shared][Denicolo] with the [AAPT-CPTYC][AAPTsharedlabs].
+  * I describe this lab to my students like "seeing through the eyes" of an experimenter. Students make all measurements based on what they can see in the video.
+
+* [Sound][sound] (docx)
+  * This is an investigation of different sounds, how different sounds relate to each other (with beats and musical intervals), using the program [Audacity][audacityteam].
+  * Some tones are generated in Audacity. Others are the following ogg files:
+    * [Trombone][bone]
+    * [Trumpet][tpt]
+    * [Tenor sax][tenor]
+    * [Drum][drum]
+  * This lab is adapted from a [similar lab][Jensen] that Erik Jensen from Chemeketa Community College shared with the [AAPT-CPTYC][AAPTsharedlabs].
+  * In accordance with Jensen's lab, my lab is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0). My four linked ogg files are licensted under the CC-BY-NC-SA license listed below.
+
 <!---About--->
 # About me
 My name is Dan Roth. I'm a physics professor at [Olympic College][OC], a two-year college in Bremerton, WA. My email is: droth (at) olympic.edu
@@ -64,21 +78,27 @@ My name is Dan Roth. I'm a physics professor at [Olympic College][OC], a two-yea
 Except as noted, all contents are copyright 2019 Dan Roth, and are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <!---Links--->
-<!---Phys 110 labs--->
+<!---Phys 110 files--->
 [funwithphys]: Fun-with-physics.pdf
 [measmot]: Measuring-motion.docx
 [measmotalt]: Measuring-motion-alt.docx
 [momentum]: Momentum.docx
 [ballpend]: Ballistic-pendulum.docx
+[elasticity]: Elasticity.docx
 [pig]: When-pigs-fly.docx
 [pig1]: Overhead_FlyingPig_NoSound.MP4
 [pig2]: EyeLevel_FlyingPig_WithSound.mp4
 
-<!---Phys 256 labs--->
+<!---Phys 256 files--->
 [gasprop]: Gas-properties.docx
 [specheat]: Specific-heat.docx
 [pendper]: Pendulum.docx
-[elasticity]: Elasticity.docx
+[stwaves]: Standing-waves.docx
+[sound]: Sound.docx
+[bone]: Trombone.ogg
+[tpt]: Trumpet.ogg
+[tenor]: Tenor-sax.ogg
+[drum]: Drum.ogg
 
 <!---Phys 110 links--->
 [CYOALabs]: https://probabilisticworld.github.io/CYOALabs
@@ -97,6 +117,9 @@ Except as noted, all contents are copyright 2019 Dan Roth, and are licensed unde
 [PhETgas]: https://phet.colorado.edu/en/simulation/gas-properties
 [specheatsim]: http://employees.oneonta.edu/viningwj/sims/specific_heat_s.html
 [vining]: http://employees.oneonta.edu/viningwj
+[Denicolo]: http://gdenicolo.net/covid/sharing_labs_covid.html#string
+[audacityteam]: https://www.audacityteam.org
+[jensen]: https://docs.google.com/document/d/1RaF6bfv_7Az5U8pY6FNGIElUgasyfJsD_odUJ65m-H0/
 
 <!---Contact links--->
 [OC]: https://www.olympic.edu
