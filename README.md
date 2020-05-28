@@ -66,6 +66,10 @@ For this class, my labs are more open-ended, requiring the students design their
   * This lab is adapted from a [similar lab][Jensen] that Erik Jensen from Chemeketa Community College shared with the [AAPT-CPTYC][AAPTsharedlabs].
   * In accordance with Jensen's lab, my lab is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0). My four linked ogg files are licensted under the CC-BY-NC-SA license listed below.
 
+* [Transmittance][transmittance] (docx)
+  * This lab uses the [Bending Light PhET][snellphet] to look at the intensity of transmitted light as a function of incident angle and index of refraction
+  * The simulation does not include polarization, so the students won't really find the "right" relationship; the point of the lab is to think about how we define mathematical relationships, and how an experimenter uses multiple data sets to draw conclusions.
+
 <!---About--->
 # About me
 My name is Dan Roth. I'm a physics professor at [Olympic College][OC], a two-year college in Bremerton, WA. My email is: droth (at) olympic.edu
@@ -99,6 +103,7 @@ Except as noted, all contents are copyright 2019 Dan Roth, and are licensed unde
 [tpt]: Trumpet.ogg
 [tenor]: Tenor-sax.ogg
 [drum]: Drum.ogg
+[transmittance]: Transmittance.docx
 
 <!---Phys 110 links--->
 [CYOALabs]: https://probabilisticworld.github.io/CYOALabs
@@ -120,6 +125,7 @@ Except as noted, all contents are copyright 2019 Dan Roth, and are licensed unde
 [Denicolo]: http://gdenicolo.net/covid/sharing_labs_covid.html#string
 [audacityteam]: https://www.audacityteam.org
 [jensen]: https://docs.google.com/document/d/1RaF6bfv_7Az5U8pY6FNGIElUgasyfJsD_odUJ65m-H0/
+[snellphet]: https://phet.colorado.edu/en/simulation/bending-light
 
 <!---Contact links--->
 [OC]: https://www.olympic.edu
