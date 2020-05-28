@@ -36,6 +36,9 @@ I will update this page as I create more labs.
   * [Video 1][pig1]
   * [Video 2][pig2]
 
+* [Equilibrium][equilib] (docx)
+  * Use the [Balancing Act PhET][balancephet] to investigate torque and equilibrium.
+
 <!---Phys 256--->
 # Engineering Physics III (Phys 256)
 For this class, my labs are more open-ended, requiring the students design their own experiments. This is how I structure my Phys 25x labs even when we're not forced to do labs remotely. I have more information on that [here][CYOALabs].
@@ -92,6 +95,7 @@ Except as noted, all contents are copyright 2019 Dan Roth, and are licensed unde
 [pig]: When-pigs-fly.docx
 [pig1]: Overhead_FlyingPig_NoSound.MP4
 [pig2]: EyeLevel_FlyingPig_WithSound.mp4
+[equilib]: Equilibrium.docx
 
 <!---Phys 256 files--->
 [gasprop]: Gas-properties.docx
@@ -117,6 +121,7 @@ Except as noted, all contents are copyright 2019 Dan Roth, and are licensed unde
 [serc]: https://serc.carleton.edu/index.html
 [adamslabs]: http://sparkingcuriosity.net/Labs.htm
 [PhETspring]:https://phet.colorado.edu/en/simulation/mass-spring-lab
+[balancephet]: https://phet.colorado.edu/en/simulation/balancing-act
 
 <!---Phys 256 links--->
 [PhETgas]: https://phet.colorado.edu/en/simulation/gas-properties
