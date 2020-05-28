@@ -39,6 +39,12 @@ I will update this page as I create more labs.
 * [Equilibrium][equilib] (docx)
   * Use the [Balancing Act PhET][balancephet] to investigate torque and equilibrium.
 
+* [Energy and kinematics][en-kim] (docx)
+  * Students use household materials roll a ball down a ramp. The determine the launch speed two ways:
+    * Analyze the ball rolling down the ramp using conservation of energy
+    * Analyze the projectile motion using kinematics
+  * The students compare their two results and consider why they results may differ.
+
 <!---Phys 256--->
 # Engineering Physics III (Phys 256)
 For this class, my labs are more open-ended, requiring the students design their own experiments. This is how I structure my Phys 25x labs even when we're not forced to do labs remotely. I have more information on that [here][CYOALabs].
@@ -96,6 +102,7 @@ Except as noted, all contents are copyright 2019 Dan Roth, and are licensed unde
 [pig1]: Overhead_FlyingPig_NoSound.MP4
 [pig2]: EyeLevel_FlyingPig_WithSound.mp4
 [equilib]: Equilibrium.docx
+[en-kim]: Energy-and-kinematics.docx
 
 <!---Phys 256 files--->
 [gasprop]: Gas-properties.docx
