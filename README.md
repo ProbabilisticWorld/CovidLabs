@@ -79,6 +79,11 @@ For this class, my labs are more open-ended, requiring the students design their
   * This lab uses the [Bending Light PhET][snellphet] to look at the intensity of transmitted light as a function of incident angle and index of refraction
   * The simulation does not include polarization, so the students won't really find the "right" relationship; the point of the lab is to think about how we define mathematical relationships, and how an experimenter uses multiple data sets to draw conclusions.
 
+* [Interference][interference] (docx)
+  * This lab uses two simulations: one on the double slit, and one on thin films.
+  * The [double slit simulation][dbl] is from a site called [The Physics Aviary][aviary]. Unfortuantely, I don't know more details about who produced the simulation, but they left the contact email [fmcculley@gmail.com][dblcontact]
+  * The [thin film simulation][thinfilm] is by Logan Scheiner and Andrew Duffy, Boston University
+
 <!---About--->
 # About me
 My name is Dan Roth. I'm a physics professor at [Olympic College][OC], a two-year college in Bremerton, WA. My email is: droth (at) olympic.edu
@@ -115,6 +120,7 @@ Except as noted, all contents are copyright 2019 Dan Roth, and are licensed unde
 [tenor]: Tenor-sax.ogg
 [drum]: Drum.ogg
 [transmittance]: Transmittance.docx
+[interference]: Interference.docx
 
 <!---Phys 110 links--->
 [CYOALabs]: https://probabilisticworld.github.io/CYOALabs
@@ -138,6 +144,10 @@ Except as noted, all contents are copyright 2019 Dan Roth, and are licensed unde
 [audacityteam]: https://www.audacityteam.org
 [jensen]: https://docs.google.com/document/d/1RaF6bfv_7Az5U8pY6FNGIElUgasyfJsD_odUJ65m-H0/
 [snellphet]: https://phet.colorado.edu/en/simulation/bending-light
+[dbl]: https://www.thephysicsaviary.com/Physics/Programs/Labs/DiffractionLab/index.html
+[aviary]: https://www.thephysicsaviary.com/
+[dblcontact]: mailto:fmcculley@gmail.com
+[thinfilm]: https://loganms.github.io/ThinFilmInterferenceSimulation/
 
 <!---Contact links--->
 [OC]: https://www.olympic.edu
